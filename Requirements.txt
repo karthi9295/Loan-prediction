@@ -1,0 +1,5 @@
+Requirements:
+
+	Applications : Python 3.5.4 (or) Anaconda build with Python 3.5.4
+	Python packages : TensorFlow 1.2.1, Keras 2.0, scikit-learn 0.18.2, pandas 0.20.2, numpy 1.13.3, h5py (2.7.1)
+	
